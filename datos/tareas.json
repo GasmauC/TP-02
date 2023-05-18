@@ -1,0 +1,20 @@
+[
+    {
+        "titulo": "Repasar JS",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "Armar aplicaiones de Tareas",
+        "estado": "en progreso"
+    },
+    
+    {
+        "titulo": "Break",
+        "estado": "pendiende"
+    },
+    {
+        "titulo": "Estudiar Ingles!",
+        "estado": "en progreso"
+    }
+
+]
